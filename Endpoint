@@ -1,0 +1,6 @@
+{
+  "videoUrl": "https://youtube.com/...",
+  "startTime": 10,
+  "endTime": 30,
+  "textOverlay": "Texto no vídeo"
+}
